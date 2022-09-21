@@ -2,7 +2,7 @@
 
 The Cyber Analytic Repository Exploration Tool (CARET) is a proof-of-concept graphical user interface designed to connect the groups and techniques highlighted in [ATT&CK](https://attack.mitre.org)® to the analytics, data model, and sensors highlighted in MITRE's [Cyber Analytics Repository](https://car.mitre.org) (CAR).
 CARET is used to develop an understanding of defensive capabilities and to aid in their development and use. 
-Additional information explaining CARET and the types of questions it helps solve can be found at <https://mitre.github.io/unfetter/about>.  
+
 
 
 ## To get started:
